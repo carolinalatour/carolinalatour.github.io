@@ -1,11 +1,13 @@
 html{
-	text-align: center; 
+	
 	background: url("images/city.jpg");
 	background-size: cover;
-	color: #fff;
+}
+body{
+	text-align: center; 	
+	color: #000;
 	font-family: Helvetica
 }
-
-#slogan{
+p #slogan{
 	font-style: italic
 }
