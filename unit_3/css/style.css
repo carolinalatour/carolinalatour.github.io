@@ -1,11 +1,10 @@
 html{
-	
 	background: url("images/city.jpg");
 	background-size: cover;
 }
 body{
 	text-align: center; 	
-	color: #000;
+	color: #0000FF;
 	font-family: Helvetica
 }
 p #slogan{
