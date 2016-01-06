@@ -1,5 +1,7 @@
 body{
 	text-align: center; 
+	background: url(images/city.jpg);
+	background-size: cover;
 	color: #fff;
 	font-family: Helvetica
 }
