@@ -1,8 +1,6 @@
-html{
-	background: url("images/city.jpg");
-	background-size: cover;
-}
 body{
+	background: url(images/city.jpg);
+	background-size: cover;
 	color: #FFFFFF;
 	font-family: Helvetica
 }
